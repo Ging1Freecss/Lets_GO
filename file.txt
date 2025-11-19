@@ -1,0 +1,1 @@
+mysql -D snippetbox -u web -pmysql -u root -p
